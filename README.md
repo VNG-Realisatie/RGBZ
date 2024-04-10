@@ -1,18 +1,20 @@
-# API-specificatie-template-repository
-Deze repository is een template repository die als basis voor het genereren van nieuwe API-specificatie of Groep van API-specificaties repository gebruikt kan worden.
-Een VNG-R GitHub administrator kan de link [_Use this template_](https://github.com/VNG-Realisatie/API-specificatie-template-repository/generate) gebruiken om een kopie van de onderliggende template aan te maken die vervolgens aangepast en uitgebreid kan worden.
+# Referentiemodel Gemeentelijke Basisgegevens Zaken
+Het informatiemodel RGBZ specificeert de gegevens en hun samenhang die gemeenten, daarmee samenwerkende organisaties en hun klanten minimaal 
+nodig hebben om voldoende op de hoogte te zijn van lopende en afgeronde zaken. Het informatiemodel is gericht op:
 
-De op die wijze gecreëerde kopie bevat een standaard content en structuur die door de eigenaar van de repository kan worden aangepast afhankelijk van de wensen en functie van de repository.
-* Indien de repository niet bedoeld is om een OAS in te beheren kan de folder 'specificaties' worden verwijderd;
-* Ongewenste issue-report types kunnen uit de folder '.github/ISSUE_TEMPLATE' worden verwijderd;
-* Indien geen feature bestanden (rules) gewenst zijn dan kan de folder 'features' worden verwijderd;
-* De folder 'test' kan worden verwijderd als er in de repository nooit test bestanden zullen worden opgenomen;
-* De 'docs' folder kan in zijn geheel worden verwijderd als er vanuit de repository geen GitHub Pages site gegenereerd hoeft te worden;
-* Als een GitHub Pages site wel gewenst is kan de structuur in de 'docs' folder naar wens worden aangepast:
-  * verwijderen van ongewenste folders;
-  * creëren van folders;
-  * vullen van de diverse Markdown bestanden;
-  * crëeren van Markdown bestanden;
-  * plaatsen van illustratieve bestanden;
-  * configureren van het '_config.yml' bestand.
-* Tevens kan de repository dan direct of op een later tijdstip worden geconfigureerd voor het genereren van een GitHub Pages site.
+* het adequaat kunnen informeren van betrokkenen bij, en geïnteresseerden in een zaak. Dit loopt van ex- en interne initiatoren van een zaak 
+via medebehandelaars daarvan en belangstellenden in de publicatie van de zaak of het resultaat daarvan tot management dat behoefte heeft aan 
+sturingsinformatie.
+* het (ook achteraf) kunnen verantwoorden van de zaak, zowel inhoudelijk (is de zaak goed afgehandeld) als qua proces (is de zaak op de juiste 
+wijze afgehandeld), en desgewenst kunnen reconstrueren van de (behandeling van de) zaak.
+
+Het informatiemodel draagt bij aan:
+
+* het verbeteren van de dienstverlening aan de burger,
+* het ondersteunen van elektronische dienstverlening,
+* het verbeteren van de bedrijfsvoering van de gemeente,
+* het adequater beheren van de, steeds meer digitale, documentaire informatievoorziening en archivering.
+
+De actuele versie van het RGBZ is versie 1.0 ('in gebruik'). Dat is ook de versie die is geïmplementeerd in [StUF-ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/). 
+Het RGBZ is één van de informatiemodellen op het gebied van zaakgericht werken (naast het informatiemodel voor de Zaaktypecatalogus) en één van 
+de standaarden van de Gegevens- en berichtenarchitectuur.
