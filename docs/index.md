@@ -44,7 +44,7 @@ De 2.0-versie gaat hierin voorzien. Deze is op 4 december 2014 goedgekeurd door 
 Selectielljst (archivering) en versie 3.0 van het RSGB; afronding is nog gaande. Vaststelling, en daarmee het verkrijgen van de status 'in gebruik', vindt plaats gelijktijdig 
 met het vaststellen van het eerste hiervan afgeleide koppelvlak, naar verwachting in 2019. 
 
-Vragen en wijzigingen
+## Vragen en wijzigingen
 Vragen over het RGBZ, vermeende fouten en initiatieven voor verbetering of uitbreiding van het RGBZ behandelen we op het Discussieplatform RGBZ. Aanpassing en uitbreiding wordt 
 begeleid door de Expertgroep Informatiemodellen.
 
@@ -53,7 +53,7 @@ Overheden) op het RGBZ en ImZTC met het oog op het metadateren van zaken en bijb
 
 Ideeen voor verbetering van deze pagina kunt u plaatsen onder 'Overleg', links bovenaan. -->
 
-Berichtenarchitectuur
+## Berichtenarchitectuur
 Het RGBZ beschrijft de structuur en semantiek van (uit te wisselen) gegevens over zaken en documenten. Om deze gegevens daadwerkelijk uit te kunnen wisselen, zijn berichten nodig. 
 Hiertoe is het RGBZ allereerst uitgewerkt in de [berichtenstandaard Sectormodel Zaken (StUF-ZKN)](https://vng-realisatie.github.io/StUF-ZKN/). Voor specifieke en veelvoorkomende 
 gebeurtenissen binnen het zaakgericht werken en het documentmanagement zijn hiervan specifieke berichten afgeleid onder de noemer 
