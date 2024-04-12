@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Introductie Xxxxxx
+title: Introductie Referentiemodel Gemeentelijke Basisgegevens Zaken (RGBZ)
 ---
 
 # Introductie
