@@ -5,7 +5,7 @@ title: Introductie Referentiemodel Gemeentelijke Basisgegevens Zaken (RGBZ)
 
 # Introductie
 
-Het informatiemodel RGBZ specificeert de gegevens en hun samenhang die gemeenten, daarmee samenwerkende organisaties en hun klanten minimaal nodig hebben 
+Het Referentiemodel Gemeentelijke Basisgegevens Zaken (RGBZ) specificeert de gegevens en hun samenhang die gemeenten, daarmee samenwerkende organisaties en hun klanten minimaal nodig hebben 
 om voldoende op de hoogte te zijn van lopende en afgeronde zaken. Het informatiemodel is gericht op:
 
 * het adequaat kunnen informeren van betrokkenen bij, en geïnteresseerden in een zaak. Dit loopt van ex- en interne initiatoren van een zaak via medebehandelaars
@@ -55,7 +55,7 @@ Ideeen voor verbetering van deze pagina kunt u plaatsen onder 'Overleg', links b
 
 ## Berichtenarchitectuur
 Het RGBZ beschrijft de structuur en semantiek van (uit te wisselen) gegevens over zaken en documenten. Om deze gegevens daadwerkelijk uit te kunnen wisselen, zijn berichten nodig. 
-Hiertoe is het RGBZ allereerst uitgewerkt in de [berichtenstandaard Sectormodel Zaken (StUF-ZKN)](https://vng-realisatie.github.io/StUF-ZKN/). Voor specifieke en veelvoorkomende 
+Hiertoe is het RGBZ allereerst uitgewerkt in de [berichtenstandaard Sectormodel Zaken (StUF-ZKN 3.10)](https://vng-realisatie.github.io/StUF-ZKN/). Voor specifieke en veelvoorkomende 
 gebeurtenissen binnen het zaakgericht werken en het documentmanagement zijn hiervan specifieke berichten afgeleid onder de noemer 
 [Zaak- en Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/). Zaak- en documentgegevens zijn tevens opgenomen in 
 [andere koppelvlakken](https://vng-realisatie.github.io/Standaarden/Zaken-en-documenten).
