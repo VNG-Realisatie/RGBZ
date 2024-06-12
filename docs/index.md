@@ -3,7 +3,7 @@ layout: page-with-side-nav
 title: Introductie Referentiemodel Gemeentelijke Basisgegevens Zaken (RGBZ)
 ---
 
-# Introductie
+# Introductie RGBZ
 
 Het Referentiemodel Gemeentelijke Basisgegevens Zaken (RGBZ) specificeert de gegevens en hun samenhang die gemeenten, daarmee samenwerkende organisaties en hun klanten minimaal nodig hebben 
 om voldoende op de hoogte te zijn van lopende en afgeronde zaken. Het informatiemodel is gericht op:
