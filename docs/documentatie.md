@@ -44,6 +44,20 @@ folder_files:
     status: Definitief
     omschrijving: Tabellen met domeinwaarden van attributen in het Informatiemodel Zaken (RGBZ) v1.0
     datum: 22-09-2010
+  - title: RGBZ 2.0 deel 1 (CONCEPT) (pdf)
+    path: documenten/GEMMA_RGBZ_2.0_deel_1_CONCEPT3_20141204.pdf
+    group: 20
+    versie: 3e concept 2.0
+    status: 
+    omschrijving: 3e concept versie RGBZ 2.0 deel 1
+    datum: 04-12-2014
+  - title: RGBZ 2.0 deel 2 (CONCEPT) (pdf)
+    path: documenten/GEMMA_RGBZ_2.0_deel_2_CONCEPT3_20141204.pdf
+    group: 20
+    versie: 3e concept 2.0
+    status: 
+    omschrijving: 3e concept versie RGBZ 2.0 deel 2
+    datum: 04-12-2014
 ---
 
 # Documentatie
