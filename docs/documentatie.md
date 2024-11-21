@@ -88,3 +88,30 @@ folder_files:
 		{% endfor %}
 	</tbody>
 </table>
+
+## RGBZ 2.0
+
+<table>
+	<thead>
+		<tr>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for i in page.folder_files %}
+			{% if i.group == 20 %} 
+				<tr>
+					<td>
+					  <a href="{{ i.path | base_url }}">
+						{{ i.title }}
+					  </a>
+					</td>
+					<td>{{ i.versie }}</td>
+					<td>{{ i.status }}</td>
+					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
+				</tr>
+			{% endif %} 
+		{% endfor %}
+	</tbody>
+</table>
