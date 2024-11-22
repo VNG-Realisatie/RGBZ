@@ -25,6 +25,8 @@ De actuele versie van het RGBZ is versie 1.0 ('in gebruik'). Dat is ook de versi
 Het RGBZ is één van de informatiemodellen op het gebied van zaakgericht werken (naast het informatiemodel voor de Zaaktypecatalogus) en één van de standaarden van de 
 Gegevens- en berichtenarchitectuur.
 
+Er bestaat ook een RGBZ versie 2.0, echter deze heeft nooit een officiële status bereikt. Deze concept-versie is ook opgenomen in de [documentatie](https://vng-realisatie.github.io/RGBZ/documentatie). Sommige van de nieuwe concepten die zijn geïntroduceerd in RGBZ 2.0 zijn overgenomen in de ZGW API's die op hun beurt wel weer een officiële status hebben.
+
 ## Totstandkoming RGBZ
 In 2004 heeft de Vereniging van Nederlandse Gemeenten (VNG) het Gemeentelijk Functioneel Ontwerp Zaken uitgebracht. Hiermee werd een standaard gezet voor de centrale 
 beschikbaarheid van basis- en kerngegevens over een zaak en het centraal kunnen ontsluiten van een zaak. Vanwege de opkomst van basisregistratie en het uitbrengen, 
