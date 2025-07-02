@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis centrum Architectuur | Robert Melskens |
+<hr/>
+
 # Referentiemodel Gemeentelijke Basisgegevens Zaken
 Het informatiemodel RGBZ specificeert de gegevens en hun samenhang die gemeenten, daarmee samenwerkende organisaties en hun klanten minimaal 
 nodig hebben om voldoende op de hoogte te zijn van lopende en afgeronde zaken. Het informatiemodel is gericht op:
